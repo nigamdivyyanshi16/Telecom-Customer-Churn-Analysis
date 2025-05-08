@@ -13,7 +13,6 @@ This end-to-end data analytics project focuses on analyzing customer churn for a
 ---
 ## 🔍 Project Objectives
 
-- Identify customers at high risk of churning.
 - Analyze service usage patterns and churn relationships.
 - Segment customers based on demographic and behavioral data.
 - Provide business recommendations to reduce churn.
@@ -27,32 +26,26 @@ This end-to-end data analytics project focuses on analyzing customer churn for a
 - Power BI dashboard with:
   - Churn Rate KPIs
   - Interactive filters (e.g., gender, contract type)
-  - Heatmaps & Bar charts showing churn patterns
 
 ---
 
 ## 📌 Insights & Recommendations
 
 - Month-to-month contract customers are more likely to churn.
-- Electronic check payment method shows high churn.
 - Longer tenure correlates with lower churn rates.
 - Providing incentives for yearly contracts can reduce churn.
 
 ---
 
-## 🚀 How to Use
-
-1. Clone the repository.
-2. Open and explore raw data in Excel.
-3. Run the SQL scripts on your local database or cloud SQL service.
-4. Open `Telcocustomer_churn.pbix` in Power BI Desktop to interact with visuals.
+1. Open and explore raw data in Excel.
+2. Run the SQL scripts on your local database or cloud SQL service.
+3. Open `Telcocustomer_churn.pbix` in Power BI Desktop to interact with visuals.
 
 ---
 
 ## 📚 Learning Outcomes
 
 - Applied ETL (Extract, Transform, Load) processes.
-- Practiced exploratory data analysis and feature correlation.
 - Created dynamic, stakeholder-ready dashboards.
 - Developed business acumen in customer lifecycle and retention strategies.
 
