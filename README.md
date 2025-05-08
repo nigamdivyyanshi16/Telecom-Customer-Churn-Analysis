@@ -7,8 +7,8 @@ This end-to-end data analytics project focuses on analyzing customer churn for a
 ## 🛠 Tools & Technologies
 
 - **Excel**: Data Cleaning, Initial EDA
-- **SQL**: Data Transformation, Advanced Querying (Joins, Aggregates, Window Functions)
-- **Power BI**: Dashboarding, Visualizations, KPI Tracking
+- **SQL**: Data Exploration, Advanced Querying (Joins, Aggregates, Window Functions)
+- **Power BI**: Dax: Data Transformation, Dashboarding, Visualizations, KPI Tracking
 
 ---
 ## 🔍 Project Objectives
