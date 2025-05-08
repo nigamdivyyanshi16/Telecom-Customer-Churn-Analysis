@@ -45,7 +45,7 @@ This end-to-end data analytics project focuses on analyzing customer churn for a
 1. Clone the repository.
 2. Open and explore raw data in Excel.
 3. Run the SQL scripts on your local database or cloud SQL service.
-4. Open `powerbi_dashboard.pbix` in Power BI Desktop to interact with visuals.
+4. Open `Telcocustomer_churn.pbix` in Power BI Desktop to interact with visuals.
 
 ---
 
